@@ -36,7 +36,6 @@ nav {
     justify-content:space-around;
     align-items:center;
     height:16vh;   
-    background-color:rgb(214, 246, 188); 
 }
 .navlinks {
     gap:2rem;
@@ -131,11 +130,11 @@ section {
 .campus_img img{
     width:280px;
     height:400px;
-    padding-top:25px;
+    padding-top:100px;
 }
 .p3 {
     padding-left: 32px;
-    padding-top: 24px;
+    padding-top: 100px;
     text-align: justify;
 }
 .list3 {
